@@ -1,6 +1,6 @@
 @extends('layouts.default')
 @section('title')
-{{'Visualizar Contato'}}
+{{'Visualizar Contatos'}}
 @stop
 @section('content')
   <div class="table-responsive">
